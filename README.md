@@ -8,8 +8,8 @@ CRUD students with SQLite and Ionic, run in android studio or physical mobile
 Install my-project with npm
 
 ```bash
-  npm install my-project
   cd my-project
+  npm install 
   ionic start
 ```
     
